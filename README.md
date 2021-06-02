@@ -12,6 +12,9 @@ O evento foi proporcionado pela Santander em parceria com a Digital Innovation O
 <p>
 Você pode conferir o projeto pelo link: https://gndamasceno.github.io/santanderDevWeekFront/
 </p>
+<p>
+URL da API no Heroku: https://santander-dev-week-backend.herokuapp.com/bootcamp/swagger-ui.html
+</p>
 
 ## Aulas
 
@@ -31,5 +34,3 @@ Você pode conferir o projeto pelo link: https://gndamasceno.github.io/santander
 $ docker run --name db_bootcamp -e POSTGRES_PASSWORD=123456 -d -p 5432:5432 postgres
 
 ```
-
-URL da API no Heroku: https://santander-dev-week-backend.herokuapp.com/bootcamp/swagger-ui.html
