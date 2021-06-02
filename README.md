@@ -23,4 +23,13 @@ Você pode conferir o projeto pelo link: https://gndamasceno.github.io/santander
 1. Criando a Camada Service e Exceptions Handlers
 1. Publicando nossa API na Nuvem
 
+# Docker
+
+```bash
+
+# Comando para subir o docker
+$ docker run --name db_bootcamp -e POSTGRES_PASSWORD=123456 -d -p 5432:5432 postgres
+
+```
+
 URL da API no Heroku: https://santander-dev-week-backend.herokuapp.com/bootcamp/swagger-ui.html
